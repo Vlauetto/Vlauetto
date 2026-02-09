@@ -1,4 +1,4 @@
-## Olá me chamo Vitória 👋
+## Olá, me chamo Vitória 👋
 
 <!--
 **Vlauetto/Vlauetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
