@@ -6,8 +6,8 @@ Desenvolvedora em formação com foco em desenvolvimento web e construção de a
 
 ### Formação
 
-🎓 Ensino Médio + Técnico em Desenvolvimento de Sistemas (Reconhecido pelo MEC) 
-💻 Programa PROA (Desenvolvimento Web e Programação) 
+🎓 Ensino Médio + Técnico em Desenvolvimento de Sistemas 
+💻 Programa PROA  
 
 ---
 
