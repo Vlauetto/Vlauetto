@@ -6,9 +6,8 @@ Desenvolvedora em formação com foco em desenvolvimento web e construção de a
 
 ### Formação
 
-- Ensino Médio com Técnico em Desenvolvimento de Sistemas (reconhecido pelo MEC)
-- Formação com base em lógica de programação, desenvolvimento web e tecnologias essenciais
-- Estudante do programa PROA (Senac Lapa Tito)
+📚 Formação 🎓 Ensino Médio + Técnico em Desenvolvimento de Sistemas (Reconhecido pelo MEC) 
+💻 Programa PROA (Desenvolvimento Web e Programação) 
 
 ---
 
@@ -17,6 +16,12 @@ Desenvolvedora em formação com foco em desenvolvimento web e construção de a
 - Desenvolvimento de projetos pessoais para prática e evolução
 - Estudo contínuo de tecnologias web e banco de dados
 - Interesse em atuar em projetos desafiadores e adquirir experiência profissional
+
+---
+
+### Experiência
+
+Sou formada em Ensino Médio com curso técnico em Desenvolvimento de Sistemas. Durante minha formação, desenvolvi fundamentos importantes em programação, incluindo lógica, desenvolvimento web e uso de linguagens essenciais. Atualmente, participo do programa PROA, onde estou aprofundando meus conhecimentos em desenvolvimento front-end e back-end, trabalhando com tecnologias atuais do mercado e construindo projetos práticos.
 
 ---
 
@@ -37,10 +42,8 @@ Lógica de Programação | Estrutura de Dados (básico) | Desenvolvimento Web
 
 ---
 
-### Atualmente focada em
+### 🎯 Objetivo
 
-- Aprimorar minhas habilidades em Full Stack Development  
-- Desenvolver projetos completos com Front-End e Back-End  
-- Aprender mais sobre banco de dados e arquitetura de sistemas  
+Busco minha primeira oportunidade na área de tecnologia como desenvolvedora, onde eu possa aplicar meus conhecimentos, continuar aprendendo e crescer profissionalmente contribuindo com soluções reais. ajuste este readme para ficar igual a foto que mandei  
 
 ---
