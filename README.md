@@ -6,7 +6,7 @@ Desenvolvedora em formação com foco em desenvolvimento web e construção de a
 
 ### Formação
 
-🎓 Ensino Médio + Técnico em Desenvolvimento de Sistemas 
+🎓 Ensino Médio + Técnico em Análise e Desenvolvimento de Sistemas 
 💻 Programa PROA  
 
 ---
@@ -21,7 +21,7 @@ Desenvolvedora em formação com foco em desenvolvimento web e construção de a
 
 ### Experiência
 
-Sou formada no Ensino Médio com curso técnico em Desenvolvimento de Sistemas. Durante minha formação, desenvolvi fundamentos importantes em programação, incluindo lógica, desenvolvimento web e uso de lin. Atualmente, participo do programa PROA, onde estou aprofundando meus conhecimentos em desenvolvimento front-end e back-end, trabalhando com tecnologias atuais do mercado e construindo projetos práticos.
+Sou formada no Ensino Médio com curso técnico em Análise e Desenvolvimento de Sistemas. Durante minha formação, desenvolvi fundamentos importantes em programação, incluindo lógica e desenvolvimento web. Atualmente, participo do programa PROA, onde estou aprofundando meus conhecimentos em desenvolvimento front-end e back-end, trabalhando com tecnologias atuais do mercado e construindo projetos práticos.
 
 ---
 
