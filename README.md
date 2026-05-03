@@ -1,12 +1,13 @@
 <h1> Oi 👋, Meu nome é Vitória Laurenzano Maschietto </h1>
 
-Desenvolvedora em formação com foco em desenvolvimento web e construção de aplicações modernas. Tenho base sólida em lógica de programação e experiência prática com front-end, além de estar expandindo meus conhecimentos em tecnologias como React e Java.
+Desenvolvedora em formação com foco em desenvolvimento web e construção de aplicações modernas. Tenho experiência prática com lógica de programação e front-end, além de estar expandindo meus conhecimentos em tecnologias como React, Java e MySQL.
 
 ---
 
 ### Formação
 
 🎓 Ensino Médio + Técnico em Análise e Desenvolvimento de Sistemas 
+<br>
 💻 Programa PROA  
 
 ---
@@ -32,13 +33,9 @@ Sou formada no Ensino Médio com curso técnico em Análise e Desenvolvimento de
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
 </p>
 
-
-📚 Fundamentos  
-Lógica de Programação | Estrutura de Dados (básico) | Desenvolvimento Web
 
 ---
 
