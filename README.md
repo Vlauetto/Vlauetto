@@ -1,7 +1,4 @@
 <h1> Oi 👋, Meu nome é Vitória Laurenzano Maschietto </h1>
-
-Desenvolvedora em formação com foco em desenvolvimento web e construção de aplicações modernas. Tenho experiência prática com lógica de programação e front-end, além de estar expandindo meus conhecimentos em tecnologias como React, Java e MySQL.
-
 ---
 
 ### Formação
