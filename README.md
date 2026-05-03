@@ -1,4 +1,11 @@
 <h1> Oi 👋, Meu nome é Vitória Laurenzano Maschietto </h1>
+
+---
+
+### Sobre mim
+
+Sou formada no Ensino Médio com curso técnico em Análise e Desenvolvimento de Sistemas. Durante minha formação, desenvolvi fundamentos importantes em programação, incluindo lógica e desenvolvimento web. Atualmente, participo do programa PROA, onde estou aprofundando meus conhecimentos em desenvolvimento front-end e back-end, trabalhando com tecnologias atuais do mercado e construindo projetos práticos.
+
 ---
 
 ### Formação
@@ -15,11 +22,7 @@
 - Estudo contínuo de tecnologias web e banco de dados
 - Interesse em atuar em projetos desafiadores e adquirir experiência profissional
 
----
 
-### Sobre mim
-
-Sou formada no Ensino Médio com curso técnico em Análise e Desenvolvimento de Sistemas. Durante minha formação, desenvolvi fundamentos importantes em programação, incluindo lógica e desenvolvimento web. Atualmente, participo do programa PROA, onde estou aprofundando meus conhecimentos em desenvolvimento front-end e back-end, trabalhando com tecnologias atuais do mercado e construindo projetos práticos.
 
 ---
 
