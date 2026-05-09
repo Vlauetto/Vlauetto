@@ -10,9 +10,9 @@ Sou formada no Ensino Médio com curso técnico em Análise e Desenvolvimento de
 
 ### Formação
 
-🎓 Ensino Médio + Técnico em Análise e Desenvolvimento de Sistemas 
+ Ensino Médio + Técnico em Análise e Desenvolvimento de Sistemas 
 <br>
-💻 Programa PROA  
+ Programa PROA  
 
 ---
 
@@ -34,12 +34,20 @@ Sou formada no Ensino Médio com curso técnico em Análise e Desenvolvimento de
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="HTML" width="60" />
 </p>
 
 
 ---
 
-### 🎯 Objetivo
+#  Principais Projetos
+
+| Projeto | Descrição | Tecnologias |
+|----------|------------|--------------|
+|  *RespireSP* | Plataforma desenvolvida para divulgar pontos e experiências em São Paulo. O projeto também contava com uma IA integrada capaz de gerar roteiros personalizados pela cidade, ajudando visitantes a explorarem São Paulo de forma mais prática. | HTML, CSS, JavaScript, IA |
+|  *ConversaAê* | Plataforma de telepsicologia desenvolvida para conectar usuários a psicólogos, oferecendo suporte a agendamentos, sessões iniciais gratuitas e filtros por especialidade. | HTML, CSS |
+
+### Objetivo
 
 Busco minha primeira oportunidade na área de tecnologia como desenvolvedora, onde eu possa aplicar meus conhecimentos, continuar aprendendo e crescer profissionalmente contribuindo com soluções reais.
 
