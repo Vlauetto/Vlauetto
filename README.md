@@ -40,12 +40,12 @@ Sou formada no Ensino Médio com curso técnico em Análise e Desenvolvimento de
 
 ---
 
-#  Principais Projetos
+# Principais Projetos
 
-| Projeto | Descrição | Tecnologias |
-|----------|------------|--------------|
-|  *RespireSP* | Plataforma desenvolvida para divulgar pontos e experiências em São Paulo. O projeto também contava com uma IA integrada capaz de gerar roteiros personalizados pela cidade, ajudando visitantes a explorarem São Paulo de forma mais prática. | HTML, CSS, JavaScript, IA |
-|  *ConversaAê* | Plataforma de telepsicologia desenvolvida para conectar usuários a psicólogos, oferecendo suporte a agendamentos, sessões iniciais gratuitas e filtros por especialidade. | HTML, CSS |
+| Projeto | Descrição | Tecnologias | Link |
+|----------|------------|--------------|------|
+|  *RespireSP* | Plataforma desenvolvida para divulgar pontos e experiências em São Paulo. O projeto também contava com uma IA integrada capaz de gerar roteiros personalizados pela cidade, ajudando visitantes a explorarem São Paulo de forma mais prática. | HTML, CSS, JavaScript, IA | [ Repositório](https://github.com/Joao-v-Medeiros/RespireSaoPaulo) |
+|  *ConversaAê* | Plataforma criada com o objetivo de ajudar a quebrar o tabu sobre psicologia e saúde mental, oferecendo conteúdos gratuitos e conexão com profissionais de forma acessível e acolhedora. | HTML, CSS | [ Repositório](https://github.com/KaueSiqueira54/Conversae) |
 
 ### Objetivo
 
